@@ -1,0 +1,3 @@
+const net = require ('net') //modulo net
+
+npm install readline-sync  //modulo para leer en linea de nodejs "const readline = require ('readline-sync')"
