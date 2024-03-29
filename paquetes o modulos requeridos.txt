@@ -18,3 +18,15 @@ Subir archivos al repositorio
 > git commit -m "primer commit"
 > git status // debe de decir que el arbol esta listo y no hay nada que haer
 5.- Copiamos los tres comandos de GITHUB en la terminal y se recargan en la platarfoma y LISTO!!! 
+
+#######################################################################################################
+Actualizar archivos en el repositorio
+#######################################################################################################
+
+> git status
+> git add .
+> git commit -m "actualizaciones x"
+> git status
+> git push origin main //rama principal
+
+listo!
