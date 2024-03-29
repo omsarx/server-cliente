@@ -1,3 +1,20 @@
+npm init -y //inicializar un nuevo proyecto - crea el archivo de configuracion "package.json"
+
 const net = require ('net') //modulo net
 
 npm install readline-sync  //modulo para leer en linea de nodejs "const readline = require ('readline-sync')"
+
+#######################################################################################################
+Subir archivos al repositorio
+#######################################################################################################
+
+1.- Abrir la terminal GIT en la carpeta en donde estan los archivos
+2.- Comandos....
+> git init
+> git add .
+> git status
+3.- Abrir GITHUB y crear nuevo repositorio "nombre"
+4.- Comandos...
+> git commit -m "primer commit"
+> git status // debe de decir que el arbol esta listo y no hay nada que haer
+5.- Copiamos los tres comandos de GITHUB en la terminal y se recargan en la platarfoma y LISTO!!! 
